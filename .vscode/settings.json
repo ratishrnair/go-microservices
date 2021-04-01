@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "golang.go",
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontSize": 14
+}
